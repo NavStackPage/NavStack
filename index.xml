@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NavPage Insiders 网址导航</title>
+    <link>https://bioit.top/</link>
+    <description>Recent content on NavPage Insiders 网址导航</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bioit.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>https://bioit.top/about/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/about/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;📢 让更多人的人制作自己的导航网站。如果你觉得本主题对你有所帮助，欢迎请作者 &lt;a href=&#34;https://kg.weiyan.cc/0000/img/donate.webp&#34;&gt;喝杯咖啡&lt;/a&gt; &amp;gt;.&amp;lt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;本站点是基于 &lt;a href=&#34;https://github.com/NavStackPage/NavStack-Hugo-Theme&#34;&gt;NavStack-Hugo-Theme&lt;/a&gt; 进行构建和部署的一个个人专属的导航网站，相比较开源版本增加了一些其他功能。这是一个属于个人使用的导航网站，有非常严重的主观倾向和利己主义。&lt;strong&gt;原则上不接受提交网址。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>网站提交</title>
+      <link>https://bioit.top/upload/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://bioit.top/upload/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;📢 让更多人的人制作自己的导航网站。如果你觉得本主题对你有所帮助，欢迎请作者 &lt;a href=&#34;https://kg.weiyan.cc/0000/img/donate.webp&#34;&gt;喝杯咖啡&lt;/a&gt; &amp;gt;.&amp;lt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;本站点是基于 &lt;a href=&#34;https://github.com/NavStackPage/NavStack-Hugo-Theme&#34;&gt;NavStack-Hugo-Theme&lt;/a&gt; 进行构建和部署的一个个人专属的导航网站，相比较开源版本增加了一些其他功能。这是一个属于个人使用的导&#xA;航网站，有非常严重的主观倾向和利己主义。&lt;strong&gt;原则上不接受提交网址。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
